@@ -1,1 +1,11 @@
+{
+  "name": "portal-mamae-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
 
